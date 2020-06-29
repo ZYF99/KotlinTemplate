@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/icon_bottle"
+        app:showAsAction="always"
+        android:title="TODO" />
+
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/icon_message"
+        app:showAsAction="always"
+        android:title="TODO" />
+
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@drawable/icon_mine"
+        app:showAsAction="always"
+        android:title="TODO" />
+
+</menu>

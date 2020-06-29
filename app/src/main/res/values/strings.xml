@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">漂流瓶</string>
+    <string name="exit_info">再按一次退出</string>
+
+    <!--splash-->
+    <string name="brief_first">漂流</string>
+    <string name="brief_second">是为了遇见更好的  TA</string>
+
+    <!--登录-->
+    <string name="hint_login_account">输入账号</string>
+    <string name="hint_login_password">输入密码</string>
+
+    <!--Dialog-->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="dialog_title"></string>
+    <string name="dialog_msg"></string>
+    <string name="dialog_button_cancel">取消</string>
+    <string name="dialog_button_delete">删除</string>
+    <string name="dialog_button_save">保存</string>
+    <string name="dialog_button_login">登录</string>
+    <string name="dialog_button_clear">清除</string>
+
+</resources>
