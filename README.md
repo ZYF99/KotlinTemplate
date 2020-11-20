@@ -1,13 +1,17 @@
 # KotlinTemplate
-##Kotlin架子
+
+## Kotlin架子
+
 本项目是基于'Google JetPack` + `Kotlin` + `RxJava2` 搭建的 `Android APP` 通用模板
 
-###项目包含如下基本功能：
+### 项目包含如下基本功能：
+
 - Splash启动页
 - Login登录页
 - Main主页面 + BottomNavigation底部导航
 
-###已加入的扩展库：
+### 已加入的扩展库：
+
 - Glide 图片加载库
 - IJKPlayer视频播放库（已封装VideoPlayer直接在xml使用）
 - ZoomRecylerLayout Item可伸缩的RecyclerView的LayoutManager
